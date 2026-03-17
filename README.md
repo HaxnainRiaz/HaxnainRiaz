@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hasnain Riaz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
-<h2 align="center">💻 Frontend Developer | React, Next.js & React Native Specialist | UI/UX Enthusiast</h2>
+<h2 align="center">💻 Full STack Developer | MERN, MEAN, flutter & React Native Specialist | UI/UX Enthusiast</h2>
 
 <p align="center">
   🚀 Turning complex ideas into modern, responsive web and mobile applications with clean code and smooth user interfaces.<br/>
