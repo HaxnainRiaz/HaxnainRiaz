@@ -131,6 +131,6 @@ Currently exploring:
 
 ![](https://komarev.com/ghpvc/?username=HaxnainRiaz&color=blueviolet&style=for-the-badge)
 
-### ⭐ "Building software that solves real-world problems."
+###  "Building software that solves real-world problems."
 
 </div>
