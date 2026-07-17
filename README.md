@@ -1,67 +1,136 @@
-<h1 align="center">Hi, I'm Hasnain Riaz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
-<h2 align="center">💻 Full STack Developer | MERN, MEAN, flutter & React Native Specialist | UI/UX Enthusiast</h2>
+<div align="center">
 
-<p align="center">
-  🚀 Turning complex ideas into modern, responsive web and mobile applications with clean code and smooth user interfaces.<br/>
-  🎯 Focused on React.js, Next.js, React Native, Tailwind CSS, Shadcn/UI, API integration, and modern frontend development practices.
+# Hi, I'm Hasnain Riaz
+
+### Full-Stack Software Engineer • AI Enthusiast • SaaS Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+Node.js;AI+%26+Machine+Learning+Explorer;Cloud+Deployment+%7C+System+Design;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+##  About Me
+
+I'm a software engineer passionate about building modern web applications, scalable SaaS platforms, and AI-powered products.
+
+I enjoy transforming complex ideas into production-ready applications with clean architecture, responsive UI, and maintainable code.
+
+Currently exploring:
+
+-  Artificial Intelligence & Machine Learning
+-  Cloud Architecture & DevOps
+-  Healthcare SaaS & Medical Billing Systems
+-  Large Scale System Design
+-  Authentication & Security
+-  Performance Optimization
+
+---
+
+#  Core Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,bootstrap,sass,figma" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres" />
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,postman" />
 </p>
 
 ---
 
+#  Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
+- Kubernetes
+- Docker
+- System Design
+- Cloud Computing
+- Microservices
+- CI/CD
+- Software Architecture
+
+---
+
+#  Areas of Expertise
+
+ Modern React Development
+
+ Next.js Applications
+
+ React Native Apps
+
+ REST API Integration
+
+ Responsive UI/UX
+
+ Authentication Systems
+
+ State Management
+
+ Full-Stack SaaS Development
+
+ Performance Optimization
+
+ Scalable Architecture
+
+---
+
+#  2026 Goals
+
+-  Build Production AI Applications
+-  Launch Healthcare SaaS Platform
+-  Master Cloud Infrastructure
+-  Develop AI Agents
+-  Learn Advanced System Design
+-  Contribute to Open Source
+
+---
+
+#  Connect With Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasnainriaz&label=Profile%20Views&color=0e75b6&style=flat" alt="hasnainriaz" />
+
+<a href="https://www.linkedin.com/in/hasnainriaz/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://my-portfolio-website.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:hasnainr0111@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">🛠 Tech Stack & Expertise</h3>
-<table align="center">
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>JavaScript, TypeScript, HTML5, CSS3, SCSS</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks & Libraries</strong></td>
-    <td>React.js, Next.js, React Native, Redux, Redux Toolkit</td>
-  </tr>
-  <tr>
-    <td><strong>Styling & UI</strong></td>
-    <td>Tailwind CSS, Shadcn/UI, Material UI, Bootstrap, SCSS, Keyframes Animations</td>
-  </tr>
-  <tr>
-    <td><strong>API & Integration</strong></td>
-    <td>REST APIs, Axios, Fetch API, Async/Await</td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Workflow</strong></td>
-    <td>Git, GitHub, VSCode, Postman, Figma, Chrome DevTools</td>
-  </tr>
-</table>
+<div align="center">
 
----
+![](https://komarev.com/ghpvc/?username=HaxnainRiaz&color=blueviolet&style=for-the-badge)
 
-<h3 align="center">💻 Tools & Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+### ⭐ "Building software that solves real-world problems."
 
----
-
-<h3 align="center">📫 Let's Connect!</h3>
-<p align="center">
-  📍 Based in Pakistan<br/>
-  💼 Open to collaboration and exciting frontend projects<br/>
-  ✉️ Email: <a href="mailto:hasnainriaz@example.com">hasnainriaz@example.com</a><br/>
-  🔗 <a href="https://www.linkedin.com/in/hasnainriaz/" target="_blank">LinkedIn</a> | <a href="https://my-portfolio-website.vercel.app/" target="_blank">Portfolio</a>
-</p>
+</div>
